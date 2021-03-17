@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  I'm Dave, and this is my GitHub profile!  Yay!
 
 <!--
 **david-southern/david-southern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
